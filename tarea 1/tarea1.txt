@@ -1,0 +1,53 @@
+Make a HTML document that.... 
+
+- has a title h1: "Homework 1"
+- has a external javascript file
+- has a form
+- has a input box for number 1
+- has a select box for the operation (add, subtract, multiply, divide)
+- has an imput box for number 2
+- has a title h2 saying: "The result is: <b>0</b>"
+- the form lounches the function onsubmit when it is submitted
+
+
+The javascript file
+- function called "calculate"
+    - function takes 3 parameters (number1, number2, operation)
+    - conditional block inside that calculates the result depending on the operation chosen
+    - returns the calculation
+- function called onSubmit
+    - inside 4 variables
+        - number 1 (value for input box 1)
+        - number 2 (value for input box 2)
+        - operation (value for operation select box)
+        - result - gets the value of the function "calculate"
+    - find the element B on the page (inside h2) ... and change the text inside to result
+
+
+Haga un documento HTML que ....
+
+- tiene un título h1: "Tarea 1"
+- tiene un archivo javascript externo
+- tiene un formulario
+- tiene un cuadro de entrada para el número 1
+- tiene un cuadro de selección para la operación (sumar, restar, multiplicar, dividir)
+- tiene una caja de inserción para el número 2
+- tiene un título h2 que dice: "El resultado es: <b> 0 </ b>"
+- el formulario pone en marcha la función onsubmit cuando se envía
+
+
+El archivo javascript
+- función llamada "calcular"
+     - la función toma 3 parámetros (número1, número2, operación)
+     - bloque condicional dentro que calcula el resultado dependiendo de la operación elegida
+     - devuelve el cálculo
+- función llamada enEnviar
+     - dentro de 4 variables
+         - número 1 (valor para el cuadro de entrada 1)
+         - número 2 (valor para el cuadro de entrada 2)
+         - operación (valor para el cuadro de selección de operación)
+         - resultado - obtiene el valor de la función "calcular"
+     - encuentre el elemento B en la página (dentro de h2) ... y cambie el texto dentro para dar como resultado
+
+
+
