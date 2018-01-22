@@ -20,7 +20,7 @@ var b = 10;
 // console.log(b);
 
 function otro(){
-    var a = 'manzana';
+    var a = 'manzana1';
     b = 5;
     console.log(a);
     console.log(b);
